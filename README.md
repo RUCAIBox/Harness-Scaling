@@ -44,7 +44,7 @@ Combining alternative realizations of these components creates a **factorized ha
 This controlled space enables two complementary generalization tests: **unseen combinations** within the factorized space and **unseen external black-box harnesses** beyond it.
 
 
-## 🎯 Structured Harness Selection
+## 🎯 Harness Selection
 
 More harness configurations do not necessarily lead to stronger learning under a fixed training budget. Exhaustively covering the full space may spread optimization across redundant combinations.
 
