@@ -79,7 +79,7 @@ Harness Scaling consistently outperforms single-harness RL across model sizes an
 A key finding is that **structured white-box harness training transfers effectively to complex external black-box systems**. On unseen **Claude Code**, Harness Scaling outperforms both supervised fine-tuning and RL performed directly through **OpenClaw** as the black-box training harness.
 
 <p align="center">
-  <img src="./fig/black.png" width="850" alt="Claude Code evaluation comparing black-box SFT, black-box RL, and Harness Scaling across three benchmarks and both model sizes" />
+  <img src="./fig/black.png" width="650" alt="Claude Code evaluation comparing black-box SFT, black-box RL, and Harness Scaling across three benchmarks and both model sizes" />
 </p>
 
 Additional OpenClaw evaluations show a consistent transfer trend.
